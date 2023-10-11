@@ -12,4 +12,10 @@ Mathplotlib Challenge
         * A direct correlation between the weight of the subject in relation to the size of the tumor can be asserted.
         
     Further research is needed with perhaps a sample size greater than the length of this study.
+    
+    
+    In Addition to the Unit Activities, Zoom Recordings and variety of online searches, additional support was provided by:
+    Instructor - Will Wright
+    TA - Andrew
+    Tutor - Reza Absalitian
         
